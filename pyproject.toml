@@ -1,0 +1,23 @@
+[project]
+name = "pycon2025"
+version = "0.1.0"
+description = "pycon2025"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "altair>=5.4.1",
+    #    "catboost>=1.2.7",
+    "gpxpy>=1.6.2",
+    "hvplot>=0.11.3",
+    "matplotlib>=3.9.2",
+    "notebook>=7.2.2",
+    "pandas>=2.2.3",
+    "plotly>=5.24.1",
+    "polars>=1.12.0",
+    "pyarrow>=18.0.0",
+    #    "scikit-learn>=1.5.2",
+    "seaborn>=0.13.2",
+    #    "shap>=0.46.0",
+    "xlrd>=2.0.1",
+    #    "yellowbrick>=1.5",
+]
